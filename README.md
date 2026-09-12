@@ -4,7 +4,7 @@ Product designer and creative technologist working across interaction design, pr
 
 MIT '26 · McGill '23
 
-[Portfolio](https://davidlafond.xyz/) · [YouTube](https://www.youtube.com/@davidlafondx) · [Instagram](https://www.instagram.com/davidlafondx/)
+[Portfolio](https://davidlafond.xyz/) · [LinkedIn](https://www.linkedin.com/in/davidlafondx/) · [YouTube](https://www.youtube.com/@davids.journal)
 
 ## Selected work
 
