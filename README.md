@@ -1,6 +1,6 @@
 # David Khanh Lafond
 
-Architect and product designer working across disciplines.
+Architect. Product designer. Builder.
 
 MIT '26 · McGill '23
 
