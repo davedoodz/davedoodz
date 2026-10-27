@@ -1,6 +1,6 @@
 # David Khanh Lafond
 
-Product designer and creative technologist working across interaction design, product strategy, spatial systems, and code.
+Architect and product designer working across disciplines.
 
 MIT '26 · McGill '23
 
