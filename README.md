@@ -6,6 +6,12 @@ MIT '26 · McGill '23
 
 [Portfolio](https://davidlafond.xyz/) · [LinkedIn](https://www.linkedin.com/in/davidlafondx/) · [YouTube](https://www.youtube.com/@davids.journal)
 
+## Featured
+
+| Project | What it is |
+| --- | --- |
+| [Frank](https://github.com/davedoodz/frank) | A coordination workspace for architecture offices: sharp floor plans, consultant drawing layers, a 3D building model and pinned comments in one screen. [Live prototype](https://hey-its-frank.vercel.app/). |
+
 ## Portfolio
 
 | Project | What it is |
